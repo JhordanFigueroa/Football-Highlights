@@ -1,0 +1,48 @@
+.main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.video-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+}
+.info-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 5px;
+    flex-wrap: wrap;
+    width: 300px;
+}
+.video-title {
+    display: inline;
+    text-align: start;
+    font-size: 20px;
+    height: 25px;
+    overflow: auto;
+}
+.league-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+.league-title{
+    display: inline;
+    font-size: 20px;
+    margin: 0 auto;
+    height: 25px;
+    overflow: auto;
+}
+.game-date{
+    display: flex;
+    font-size: 12px;
+    margin: 0 auto;
+}
+.game-video{
+    background-color: rgba(2, 221, 250, 0.781);
+    height: 230px;
+}
+

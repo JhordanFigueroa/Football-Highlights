@@ -1,0 +1,6 @@
+.app-container {
+  display: flex;
+  background-color: whitesmoke;
+  flex-direction: column;
+  align-content: space-between;
+}
