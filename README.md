@@ -21,13 +21,13 @@ This app was built using React. Two separate API's were called to render the dat
 
 
 #### Product Pictures 
-![Highlights](/Users/jhordanfigueroa/SEI-Cicadas/unit2/project/Football-Highlights/football-app/src/Highlights.png)
+![](/Users/jhordanfigueroa/SEI-Cicadas/unit2/project/Football-Highlights/football-app/src/Highlights.png)
 
-![News](/Users/jhordanfigueroa/SEI-Cicadas/unit2/project/Football-Highlights/football-app/src/News.png)
+![](/Users/jhordanfigueroa/SEI-Cicadas/unit2/project/Football-Highlights/football-app/src/News.png)
 
 ##### App Link 
 
-futbol-highlights.surge.sh
+Futbol-News.surge.sh
 
 
 
