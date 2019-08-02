@@ -21,9 +21,9 @@ This app was built using React. Two separate API's were called to render the dat
 
 
 #### Product Pictures 
-![Highlights](/images/Highlights.png)
+![Highlights](/Users/jhordanfigueroa/SEI-Cicadas/unit2/project/Football-Highlights/football-app/src/Highlights.png)
 
-![News](/images/News.png)
+![News](/Users/jhordanfigueroa/SEI-Cicadas/unit2/project/Football-Highlights/football-app/src/News.png)
 
 ##### App Link 
 
