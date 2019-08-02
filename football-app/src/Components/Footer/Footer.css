@@ -1,7 +1,18 @@
 .footer-container {
     display: flex;
-    background-color: lightgray;
+    background-color: whitesmoke;
     justify-content: center;
     padding: 10px 5px 10px 5px;
-    font-size: 20px;
+}
+.barca {
+    height: 50px;
+    width: 50px;
+}
+.jueventus {
+    height: 50px;
+    width: 100px;
+}
+.psg {
+    height: 50px;
+    width: 50px;
 }

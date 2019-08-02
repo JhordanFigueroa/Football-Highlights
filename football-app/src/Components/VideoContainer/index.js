@@ -10,11 +10,10 @@ class VideoContainer extends React.Component {
         this.state = {
             videos: [], 
             isLoaded: false,
-            footballFilter: ''
+            footballFilter: '', 
         }
         this.props = props;
     }
-
     handleLoading() {
         this.setState((state) => ({
           isLoaded: true
@@ -74,6 +73,7 @@ class VideoContainer extends React.Component {
                                 display="initial"
                                 position="relative"
                                 allowFullScreen/>
+                            <div className="break"></div>
                         </div>
                 )
                 // }

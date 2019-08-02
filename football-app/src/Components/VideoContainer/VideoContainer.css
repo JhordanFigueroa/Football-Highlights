@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Saira+Stencil+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Boogaloo&display=swap');
 .main {
     display: flex;
     flex-direction: row;
@@ -17,6 +19,7 @@
     margin: 5px;
     flex-wrap: wrap;
     width: 300px;
+    background: #4fc3f7;
 }
 .video-title {
     display: inline;
@@ -24,6 +27,7 @@
     font-size: 20px;
     height: 25px;
     overflow: auto;
+    font-family: 'Boogaloo', cursive;
 }
 .league-container {
     display: flex;
@@ -44,5 +48,9 @@
 .game-video{
     background-color: rgba(2, 221, 250, 0.781);
     height: 230px;
+}
+.break {
+    background-color: whitesmoke;
+    padding: 10px;
 }
 

@@ -1,17 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Saira+Stencil+One&display=swap');
+
 .header-container {
     display: flex;
     flex-direction: column;
-    background-color: rgb(31, 117, 5);
+    background-color: #000a12;
     color: white;
     opacity: .8;
     align-items: center;
-    height: 70px;
+    height: 80px;
     position: fixed;
     width: 100%
 }
 h1 {
     font-size: 30px;
     margin: 5px;
+    font-family: 'Saira Stencil One', cursive;
 }
 .link-container {
     display: flex;
@@ -20,10 +23,10 @@ h1 {
 .home-link {
     display: flex;
     padding: 0 30px;
-    color: rgba(247, 172, 35, 0.815);
+    color: whitesmoke;
     font-size: 20px;
 }
 .news-link {
-    color: rgba(35, 247, 229, 0.815);
+    color: whitesmoke;
     font-size: 20px;
 }

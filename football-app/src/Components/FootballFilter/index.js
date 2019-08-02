@@ -4,7 +4,7 @@ import './FootballFilter.css'
 const FootballFilter = props => (
     <div className="filter-container">
         <label htmlFor="soccer-filter">Search For Your Team: </label>
-        <input type="text" value={props.value} onChange={props.onChange} 
+        <input type="text" value={props.value} placeholder= "Barcelona"onChange={props.onChange} 
         name="football-filter" />
     </div>
 )

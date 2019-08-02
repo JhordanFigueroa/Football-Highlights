@@ -1,11 +1,12 @@
-import React from 'react'
-import './Header.css'
+import React from 'react';
+import './Header.css';
+import Welcome from '../Welcome/'
 import { Link } from "react-router-dom";
 
-function Header() {
+function Header(props) {
        return(
            <div className="header-container">
-               <h1>Latest Futbol Feed </h1>
+               <Welcome name="Futbol Highlights"/>
                <nav className="link-container">
                     <Link className="home-link" to='/'>Home</Link>
                     <br></br>

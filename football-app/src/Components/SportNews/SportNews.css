@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Kalam:700&display=swap');
+ 
  .news-page{
     display: flex;
     flex-direction: row;
@@ -8,7 +10,7 @@
     display: flex;
     flex-direction: column;
     align-items: space-around;
-    background-color: aqua;
+    background-color: #ffa726;
     width: 300px;
     margin: 0 auto;
     /* padding: 5px 0 0 0; */
@@ -29,14 +31,15 @@ img {
 }
 
 article {
-    background-color: red;
+    background-color: #ffd95b;
+    font-family: 'Kalam', cursive;
 }
 .break {
     background-color: whitesmoke;
     padding: 10px;
 }
 button {
-    background-color: yellow;
+    background-color: #ffa726;
     height: 30px;
     font-size: 15px;
 }
