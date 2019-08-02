@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 function Header(props) {
        return(
            <div className="header-container">
-               <Welcome name="Futbol Highlights"/>
+               <Welcome name="Futbol News"/>
                <nav className="link-container">
                     <Link className="home-link" to='/'>Home</Link>
                     <br></br>
